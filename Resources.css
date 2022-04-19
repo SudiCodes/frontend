@@ -1,0 +1,8 @@
+.cpu,.disk,.memory,.user-count{
+    display: inline-block;
+    background-color: #24263A;
+    border: solid 2px #000000;
+    margin: 10px;
+    height: 200px;
+    box-shadow: 0 0 10px 0 #3498db;
+}
